@@ -1,0 +1,1 @@
+web: gunicorn url-shortener-cum-qr-generator.wsgi --log-file -
